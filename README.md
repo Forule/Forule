@@ -52,12 +52,19 @@ Currently pursuing my **Master of Science in Computer Science** while working as
 
 ## 🚀 Featured Projects
 
-### 📝 [simpleTodo — Full-Stack Task Manager](https://github.com/Forule/todo-frontend)
+### 📝 [simpleTodo — Full-Stack Task Manager](https://github.com/Forule/todo-backend)
 A containerized, production-deployed task management application. React frontend, type-safe Node.js/TypeScript REST API, PostgreSQL for persistence, automated CI/CD via GitHub Actions, and Docker-based deployment to a self-hosted Linux server.
 
 `React` `TypeScript` `Node.js` `PostgreSQL` `Docker` `GitHub Actions`
 
 > 🔗 Live: [todo.janmuljowin.de](https://todo.janmuljowin.de)
+
+### 🌐 [Personal Portfolio Website](https://github.com/Forule/portfolio)
+A performant SPA with automated CI/CD — every Git tag triggers a GitHub Actions build, pushes a Docker image to GHCR, and Coolify on a Hetzner VPS performs a zero-downtime restart. Full infrastructure ownership, no managed hosting.
+
+`TypeScript` `Tailwind CSS` `Docker` `Nginx` `GitHub Actions` `Coolify` `Hetzner`
+
+> 🔗 Live: [janmuljowin.de](https://janmuljowin.de)
 
 ### 🥽 [Redirected Walking VR — Bachelor Thesis (1.0)](https://github.com/Forule/BA_Redirected_Walking)
 A VR research environment for the HTC Vive Focus Vision exploring **Blink-Induced Redirection** — detecting user blinks in real-time via Eye Tracking and applying spatial redirection gains during the moments of visual suppression. Includes a full user study with quantitative evaluation.
