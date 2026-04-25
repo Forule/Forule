@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jan 👋</h1>
 
 <p align="center">
-  Full-Stack Developer · VR/XR Researcher · M.Sc. Computer Science student @ Hochschule Offenburg
+  Full-Stack Developer · HCI & UI/UX Background · B.Sc. Media & Computer Science @ Hochschule Offenburg
 </p>
 
 <p align="center">
@@ -13,13 +13,21 @@
 
 ---
 
-I build robust web applications, scalable containerized infrastructure, and immersive VR experiences. My Bachelor's thesis on **Blink-Induced Redirected Walking** in VR (graded 1.0 / top mark) merged real-time eye tracking with spatial redirection algorithms — a project I'm proud to have shipped on actual hardware.
+I build things that work **and** feel right. My degree in Media & Computer Science combined software engineering, HCI, UI/UX design, and media technology — which means I think about users, not just code.
 
-Currently pursuing my **Master of Science in Computer Science** while working as a freelance web developer.
+4+ years of practical experience in digital marketing at Burda Direct Interactive, where I applied UX principles to HTML/CSS email templates and conversion-focused campaigns. My Bachelor's thesis (graded 1.0) merged VR development with an empirical user study — engineering and research in one project.
+
+Currently looking for a hands-on role where both skills matter.
 
 ---
 
 ## 🛠️ Tech Stack
+
+**HCI & Design**
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![UX Research](https://img.shields.io/badge/UX_Research-%23764ABC.svg?style=for-the-badge&logoColor=white)
+![Human Computer Interaction](https://img.shields.io/badge/HCI-%231d6fa4.svg?style=for-the-badge&logoColor=white)
 
 **Frontend**
 
